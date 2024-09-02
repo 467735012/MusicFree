@@ -41,6 +41,21 @@
             "version": "0.0.1"
         },
         {
+            "name":"5sing",
+            "url":"http://adad23u.appinstall.life/dist/5sing/index.js",
+            "version":"0.1.1"
+        },
+        {
+            "name":"Hi~Res音乐",
+            "url":"http://adad23u.appinstall.life/dist/migu/index.js",
+            "version":"0.2.1"
+        },
+        {
+            "name":"云音乐",
+            "url":"http://adad23u.appinstall.life/dist/kuwo/index.js",
+            "version":"0.1.6"
+        },
+        {
             "name": "歌词千寻",
             "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciqianxun/index.js",
             "version": "0.0.0"
